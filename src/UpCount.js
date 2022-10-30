@@ -1,5 +1,5 @@
 const CountUp = () => {
-  for (let i = 0; i < 0; i++) {}
+  return <h1>Home Page</h1>;
 };
 
 export default CountUp;
