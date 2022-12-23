@@ -5,6 +5,7 @@
 .color{
   color: rgb(249, 149, 166);
   text-align: center;
+  text-transform: capitalize;
 }
 
 #name{
