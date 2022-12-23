@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.color{
+  color: rgb(249, 149, 166);
+  text-align: center;
+}
+
+#name{
+  color: red;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
