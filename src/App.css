@@ -1,15 +1,12 @@
-.App {
-  text-align: center;
+.nav-bar{
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 6px;
 }
 
-.color{
-  color: rgb(249, 149, 166);
-  text-align: center;
-  text-transform: capitalize;
-}
-
-#name{
-  color: red;
+.li-tag{
+  padding: 16px;
 }
 
 .App-logo {

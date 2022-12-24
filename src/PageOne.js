@@ -1,3 +1,5 @@
+import { useState, useEffect } from "react";
+
 const PageOne = () => {
   const BASE_URL = "https://pokeapi.co/api/v2/berry/";
 
